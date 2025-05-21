@@ -1,0 +1,16 @@
+<resources>
+    <!-- Màu chủ đạo hiện đại -->
+    <color name="primary_color">#1F1F1F</color> <!-- Nền chính đậm -->
+    <color name="secondary_color">#282828</color> <!-- Nền phụ -->
+    <color name="accent_color">#FF4081</color> <!-- Màu nhấn hồng neon -->
+    <color name="highlight_color">#03DAC5</color> <!-- Màu nhấn xanh mint -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="rating_star">#FFD700</color> <!-- Màu vàng sao -->
+
+    <!-- Giao diện chi tiết -->
+    <color name="fastlane_background">#121212</color> <!-- header bar -->
+    <color name="detail_background">#1E1E1E</color>
+    <color name="detail_actions_background">#292929</color>
+    <color name="default_detail_background_color">#101010</color>
+</resources>
